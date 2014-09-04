@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MykongSoap:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MykongSoap-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MykongSoap:war exploded" />
+    </root>
+  </artifact>
+</component>
